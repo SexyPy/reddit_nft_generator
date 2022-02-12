@@ -23,10 +23,15 @@ pip install -r requirements.txt
     
 ## Usage/Examples
 
+Modify your login credentials (necessary for the software to work properly) in the file __main__.py . (self.username = "" & self.password = "")
+
 ```bash
 py .\__main__.py
 ```
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/26823931/153690142-30d75f02-92a7-448c-979f-889deb3b4f9c.png">
+</p>
 
 ## Support
 
