@@ -7,7 +7,6 @@
 
 "NFT" creator using the [reddit](https://www.reddit.com/) api
 
-
 ## Tech Stack
 
 **Language:** Python 3.X
@@ -20,10 +19,13 @@ Install reddit_nft_generator with pip
 ```bash
 pip install -r requirements.txt
 ```
+
+Modify your login credentials in the file main.py:
+
+    self.username = "YOUR_USERNAME"
+    self.password = "YOUR_PASSWORD"
     
 ## Usage/Examples
-
-Modify your login credentials (necessary for the software to work properly) in the file __main__.py . (self.username = "" & self.password = "")
 
 ```bash
 py .\__main__.py
