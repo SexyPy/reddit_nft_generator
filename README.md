@@ -1,5 +1,6 @@
-
-![Logo](https://user-images.githubusercontent.com/26823931/153689143-73707380-cee9-47ba-84a1-65fd5068adf4.png)
+<p align="center">
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/26823931/153689143-73707380-cee9-47ba-84a1-65fd5068adf4.png">
+</p>
 
 
 # reddit_nft_generator
