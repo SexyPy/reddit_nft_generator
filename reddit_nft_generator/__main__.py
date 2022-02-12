@@ -6,7 +6,7 @@ import httpx
 from bs4 import BeautifulSoup
 
 
-def get_random_string(length):
+def get_random_string(length) -> str:
     letters = string.ascii_lowercase
     return "".join(random.choice(letters) for i in range(length))
 
